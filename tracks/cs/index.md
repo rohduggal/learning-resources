@@ -10,5 +10,9 @@
 ## Compilers
 * [Stanford Compilers](https://www.coursera.org/course/compilers) #course
 
+## Functional Programming
+* [Functional Programming Fundamentals](https://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals/Lecture-Series-Erik-Meijer-Functional-Programming-Fundamentals-Chapter-1) by Erik Meijer #Course
+
+
 ## Machine Learning
 * [Stanford Machine Learning](https://www.coursera.org/learn/machine-learning) #course
