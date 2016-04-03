@@ -7,3 +7,4 @@
 * ["The Beauty & Joy of Computing"](https://www.edx.org/course/beauty-joy-computing-cs-principles-part-uc-berkeleyx-bjc-1x) by UC Berkeley #course
 * [Computer Science 101](https://www.coursera.org/course/cs101) by [Stanford Online](http://online.stanford.edu). #course
 * [Code.org Star Wars Game](https://code.org/starwars) Learn JS by making a Star Wars game. #course
+* [Website Performance Optimization. The Critical Rendering Path](https://www.udacity.com/course/website-performance-optimization--ud884) by [Google](https://www.google.com).  #course
