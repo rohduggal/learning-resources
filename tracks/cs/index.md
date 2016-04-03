@@ -6,6 +6,8 @@
 
 ## Data Structures & Algorithms
 * [MIT Introduction to Algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)  #course
+* [Stanford Algorithms: Design and Analysis, Part 1](https://www.coursera.org/course/algo) #course
+* [Stanford Algorithms: Design and Analysis, Part 2](https://www.coursera.org/course/algo2) #course
 
 ## Compilers
 * [Stanford Compilers](https://www.coursera.org/course/compilers) #course
