@@ -9,6 +9,8 @@
 * [Stanford Algorithms: Design and Analysis, Part 2](https://www.coursera.org/course/algo2) #course
 
 ## Compilers
+* [How to Build a Compiler](https://www.youtube.com/watch?v=Tar4WgAfMr4) #talk
+  - [Source code](https://github.com/thejameskyle/the-super-tiny-compiler)
 * [Stanford Compilers](https://www.coursera.org/course/compilers) #course
 
 ## Functional Programming
