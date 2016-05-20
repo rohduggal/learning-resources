@@ -7,3 +7,4 @@ For students just getting started with JavaScript.
 * [JavaScript for Cats](http://jsforcats.com/) by [Max Ogden](http://maxogden.com/) #tutorial
 * [FreeCodeCamp](http://freecodecamp.com/) #exercises
 * [Eloquent JavaScript](http://eloquentjavascript.net/) by [Marijn Haverbeke](https://twitter.com/marijnjh) #book
+* [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) #book
