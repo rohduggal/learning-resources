@@ -1,3 +1,3 @@
 # Quantum Computing
 
-* [Quantum Computing Playground](https://qcplayground.withgoogle.com/#/home) Practice programming on a virtual quantum computer. #experience
+* [Quantum Computing Playground](http://www.quantumplayground.net/#/home) Practice programming on a virtual quantum computer. #experience
