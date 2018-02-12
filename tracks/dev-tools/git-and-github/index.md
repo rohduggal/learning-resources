@@ -8,3 +8,4 @@
 * [Git Immersion](http://gitimmersion.com/) by [Neo Innovation Inc](http://neo.com/). #tutorial
 * [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github) by [Kent Dodds](https://twitter.com/kentcdodds) via [egghead.io](https://egghead.io/) #course
 * [*Pro Git*](http://git-scm.com/book/en/v2) by [Scott Chacon](https://twitter.com/chacon) and [Ben Straub](https://twitter.com/benstraub). #book
+* [Curated Git Resources](https://hackr.io/tutorials/learn-git) by [Hackr.io](https://hackr.io/)
